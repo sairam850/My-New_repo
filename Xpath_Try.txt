@@ -1,0 +1,6 @@
+//*[contains(text(),'Weather, ITS, Trip Management')]/parent::div/div/a Xpath 1
+//*[text() = 'ITS']/parent::div/div/a
+Delete
+//*[contains(@class, 'removeProduct')]/button/i
+
+refs/heads/dev/skannan/aus-6170
